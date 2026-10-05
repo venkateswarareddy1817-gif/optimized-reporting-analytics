@@ -1,0 +1,51 @@
+customer_id,customer_name,email,city,state
+1,Rahul Sharma,rahulsharma@gmail.com,Hyderabad,Telangana
+2,Priya Reddy,priyareddy@gmail.com,Bangalore,Karnataka
+3,Arjun Kumar,arjunkumar@gmail.com,Mumbai,Maharashtra
+4,Sneha Patel,snehapatel@gmail.com,Delhi,Delhi
+5,Vikram Singh,vikramsingh@gmail.com,Chennai,Tamil Nadu
+6,Ananya Rao,ananyarao@gmail.com,Pune,Maharashtra
+7,Rohit Verma,rohitverma@gmail.com,Kolkata,West Bengal
+8,Neha Gupta,nehagupta@gmail.com,Kochi,Kerala
+9,Kiran Reddy,kiranreddy@gmail.com,Ahmedabad,Gujarat
+10,Pooja Nair,poojanair@gmail.com,Vijayawada,Andhra Pradesh
+11,Amit Shah,amitshah@gmail.com,Jaipur,Rajasthan
+12,Divya Menon,divyamenon@gmail.com,Hyderabad,Telangana
+13,Suresh Kumar,sureshkumar@gmail.com,Bangalore,Karnataka
+14,Meena Rao,meenarao@gmail.com,Mumbai,Maharashtra
+15,Karthik Reddy,karthikreddy@gmail.com,Delhi,Delhi
+16,Swathi Rao,swathirao@gmail.com,Chennai,Tamil Nadu
+17,Naveen Kumar,naveenkumar@gmail.com,Pune,Maharashtra
+18,Lakshmi Devi,lakshmidevi@gmail.com,Kolkata,West Bengal
+19,Manoj Patel,manojpatel@gmail.com,Kochi,Kerala
+20,Harsha Vardhan,harshavardhan@gmail.com,Ahmedabad,Gujarat
+21,Deepak Singh,deepaksingh@gmail.com,Vijayawada,Andhra Pradesh
+22,Asha Sharma,ashasharma@gmail.com,Jaipur,Rajasthan
+23,Ravi Teja,raviteja@gmail.com,Hyderabad,Telangana
+24,Kavya Reddy,kavyareddy@gmail.com,Bangalore,Karnataka
+25,Sanjay Kumar,sanjaykumar@gmail.com,Mumbai,Maharashtra
+26,Bhavana Rao,bhavanarao@gmail.com,Delhi,Delhi
+27,Vamsi Krishna,vamsikrishna@gmail.com,Chennai,Tamil Nadu
+28,Swetha Reddy,swethareddy@gmail.com,Pune,Maharashtra
+29,Ajay Kumar,ajaykumar@gmail.com,Kolkata,West Bengal
+30,Nisha Gupta,nishagupta@gmail.com,Kochi,Kerala
+31,Varun Sharma,varunsharma@gmail.com,Ahmedabad,Gujarat
+32,Sravani Rao,sravanirao@gmail.com,Vijayawada,Andhra Pradesh
+33,Prakash Kumar,prakashkumar@gmail.com,Jaipur,Rajasthan
+34,Ramesh Babu,rameshbabu@gmail.com,Hyderabad,Telangana
+35,Keerthi Reddy,keerthireddy@gmail.com,Bangalore,Karnataka
+36,Mahesh Patel,maheshpatel@gmail.com,Mumbai,Maharashtra
+37,Sandhya Rao,sandhyarao@gmail.com,Delhi,Delhi
+38,Tarun Singh,tarunsingh@gmail.com,Chennai,Tamil Nadu
+39,Madhuri Sharma,madhurisharma@gmail.com,Pune,Maharashtra
+40,Siddharth Kumar,siddharthkumar@gmail.com,Kolkata,West Bengal
+41,Chaitanya Reddy,chaitanyareddy@gmail.com,Kochi,Kerala
+42,Sowmya Rao,sowmyarao@gmail.com,Ahmedabad,Gujarat
+43,Gautham Kumar,gauthamkumar@gmail.com,Vijayawada,Andhra Pradesh
+44,Tejaswi Reddy,tejaswireddy@gmail.com,Jaipur,Rajasthan
+45,Abhishek Sharma,abhisheksharma@gmail.com,Hyderabad,Telangana
+46,Rohini Patel,rohinipatel@gmail.com,Bangalore,Karnataka
+47,Venkat Rao,venkatrao@gmail.com,Mumbai,Maharashtra
+48,Harini Kumar,harinikumar@gmail.com,Delhi,Delhi
+49,Surya Prakash,suryaprakash@gmail.com,Chennai,Tamil Nadu
+50,Anil Reddy,anilreddy@gmail.com,Pune,Maharashtra

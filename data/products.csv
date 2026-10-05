@@ -1,0 +1,21 @@
+product_id,product_name,category_id,price
+1,Laptop,1,65000
+2,Smartphone,1,35000
+3,Headphones,1,2500
+4,Keyboard,1,1800
+5,T-Shirt,2,800
+6,Jeans,2,1800
+7,Jacket,2,3500
+8,Shoes,2,2500
+9,Office Chair,3,7500
+10,Dining Table,3,15000
+11,Bookshelf,3,9000
+12,Sofa,3,30000
+13,SQL Book,4,900
+14,Python Book,4,850
+15,Data Engineering Book,4,1200
+16,Cloud Computing Book,4,1100
+17,Washing Machine,5,28000
+18,Refrigerator,5,42000
+19,Microwave Oven,5,12000
+20,Air Conditioner,5,45000
